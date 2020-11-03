@@ -4,12 +4,13 @@ const nodeExternals = require("webpack-node-externals")
 const VueSSRServerPlugin = require("vue-server-renderer/server-plugin")
 const path = require("path")
 const webpack = require("webpack")
+const CopyPlugin = require("copy-webpack-plugin")
 
 module.exports = merge(baseConfig, {
     target: "node",
     devtool: "source-map",
     entry: {
-        app: path.resolve("src/entry-server.js")
+        app: path.resolve("src/client/entry-server.js")
     },
     output: {
         libraryTarget: "commonjs2",
@@ -22,6 +23,14 @@ module.exports = merge(baseConfig, {
         new webpack.DefinePlugin({
             "process.env.NODE_VUE": "server"
         }),
-        new VueSSRServerPlugin()
+        new VueSSRServerPlugin(),
+        new CopyPlugin({
+            patterns: [
+                {
+                    from: "public",
+                    to: "dist"
+                }
+            ]
+        })
     ]
 })

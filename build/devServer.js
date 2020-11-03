@@ -37,7 +37,11 @@ module.exports = function setupDevServer(app, cb) {
             publicPath: clientConfig.output.publicPath,
             noInfo: true
         }),
-        hotReplaceMiddleware = WebpackHotMiddleware(clientCompiler)
+        hotReplaceMiddleware = WebpackHotMiddleware(clientCompiler, {
+            log: false,
+            noInfo: true,
+            quite: true
+        })
 
     app.use(devServerMiddleware)
     app.use(hotReplaceMiddleware)

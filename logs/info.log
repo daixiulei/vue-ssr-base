@@ -157,3 +157,180 @@
 [2020-11-03T13:59:24.675] [INFO] default - [34mserver bundle build complete[39m
 [2020-11-03T13:59:27.932] [INFO] default - [34mclient manifest build complete[39m
 [2020-11-03T13:59:27.933] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T14:46:47.804] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T14:47:23.225] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T14:47:29.332] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T14:47:31.284] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T14:47:34.421] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T14:47:36.909] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T14:47:36.910] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T14:49:20.194] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T14:49:22.190] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T14:49:25.231] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T14:49:25.232] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T14:50:09.859] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T14:50:12.061] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T14:50:15.396] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T14:50:15.397] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:02:29.451] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:02:33.098] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:02:35.565] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:02:35.566] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:04:33.006] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:04:35.605] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:04:38.922] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:04:38.923] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:05:47.692] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:05:50.091] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:05:53.613] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:05:53.614] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:06:11.343] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:06:14.333] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:06:16.898] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:06:16.899] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:06:28.933] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:06:32.383] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:06:32.825] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:06:35.308] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:06:35.312] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:06:42.339] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:06:42.340] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:13:14.790] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:13:18.095] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:13:20.463] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:13:20.463] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:21:38.302] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:21:41.823] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:21:44.269] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:21:44.270] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:23:43.600] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:23:46.669] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:23:49.234] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:23:49.234] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:30:36.441] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:30:39.741] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:30:40.151] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:30:42.537] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:30:42.538] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:31:47.108] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:31:50.447] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:31:53.325] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:31:53.325] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T15:35:28.172] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T15:35:30.807] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T15:35:34.408] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T15:35:34.409] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:06:01.375] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:06:03.270] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:06:10.815] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:06:12.952] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:06:16.236] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:06:16.237] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:06:20.881] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:06:20.882] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:06:45.475] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:06:47.661] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:06:50.119] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:06:53.657] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:06:53.658] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:06:58.014] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:07:00.778] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:07:03.110] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:07:04.665] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:07:07.007] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:07:10.397] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:07:10.397] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:07:14.887] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:07:14.887] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:10:21.746] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:10:24.083] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:10:27.727] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:10:27.728] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:34:47.648] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:34:51.100] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:34:53.878] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:34:53.878] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:38:12.616] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:38:15.075] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:38:18.635] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:38:18.635] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:41:31.282] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:41:33.876] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:41:37.449] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:41:37.450] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:42:04.750] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:42:07.175] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:42:11.101] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:42:11.104] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:56:14.568] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:56:17.460] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:56:21.618] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:56:21.618] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T16:58:30.166] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T16:58:32.702] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T16:58:35.975] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T16:58:35.975] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:00:36.229] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:00:38.085] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:00:40.600] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:00:44.095] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:00:44.096] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:01:47.064] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:01:49.535] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:01:52.802] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:01:52.803] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:06:30.079] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:06:34.265] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:06:37.365] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:06:37.366] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:07:38.073] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:07:40.853] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:07:44.286] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:07:46.939] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:09:27.181] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:09:29.921] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:09:33.515] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:09:33.515] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:09:43.236] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:09:45.815] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:09:48.006] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:09:51.278] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:09:51.279] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:11:32.176] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:11:34.600] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:11:36.752] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:11:39.969] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:11:39.970] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:14:28.590] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:14:31.339] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:14:34.832] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:14:34.832] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:14:39.569] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:14:40.527] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:14:42.700] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:14:46.021] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:14:46.021] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:15:25.661] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:15:27.862] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:15:31.128] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:15:31.128] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:23:31.292] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:23:33.725] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:23:37.117] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:23:37.117] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:24:11.202] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:24:14.014] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:24:16.613] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:24:20.658] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:24:20.658] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:25:50.394] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:25:53.029] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:25:56.425] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:25:59.372] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:26:01.813] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:26:05.355] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:26:05.356] [INFO] default - [34mGot bundle! Application will update[39m
+[2020-11-03T17:41:07.073] [INFO] default - [32mServer is running on http://localhost:3000[39m
+[2020-11-03T17:41:09.554] [INFO] default - [34mserver bundle build complete[39m
+[2020-11-03T17:41:12.729] [INFO] default - [34mclient manifest build complete[39m
+[2020-11-03T17:41:12.730] [INFO] default - [34mGot bundle! Application will update[39m

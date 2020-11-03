@@ -7,7 +7,7 @@ const webpack = require("webpack")
 
 module.exports = merge(baseConfig, {
     entry: {
-        app: path.resolve("src/entry-client.js")
+        app: path.resolve("src/client/entry-client.js")
     },
     output: {
         filename: "js/[name].[chunkhash].js",

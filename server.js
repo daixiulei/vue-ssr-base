@@ -3,6 +3,7 @@ const { createBundleRenderer } = require("vue-server-renderer")
 const fs = require("fs")
 const setupDevServer = require("./build/devServer")
 const chalk = require("chalk")
+const logger = require("./src/utils/logger")
 
 const template = fs.readFileSync("./public/index.html", "utf-8")
 
@@ -22,6 +23,7 @@ if (isProduction) {
 } else {
     setupDevServer(app, function(serverBundle, clientManifest) {
         console.log("get bundle")
+        logger.info(chalk.blue("Got bundle! Application will update"))
         renderer = createBundleRenderer(serverBundle, {
             runInNewContext: false,
             template,
@@ -45,16 +47,16 @@ app.use("/", (req, res) => {
 
     // 将Vue实例渲染成HTML
     renderer.renderToString(context, (err, html) => {
-        console.log(html)
         if (err) {
-            console.log(err)
-            res.status(err.code).end("Internal Server Error")
+            logger.error(chalk.red(JSON.stringify(err)))
+            res.status(err.code || 500).end("Internal Server Error")
             return
         }
+        console.log(html)
         res.end(html)
     })
 })
 
 app.listen(3000, () => {
-    console.log(chalk.green("\nServer in running on http://localhost:3000 \n"))
+    logger.info(chalk.green("Server is running on http://localhost:3000"))
 })

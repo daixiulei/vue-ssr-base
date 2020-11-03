@@ -11,5 +11,6 @@ export function createApp() {
         // components: { App },
         render: h => h(App)
     })
+
     return { app, router }
 }

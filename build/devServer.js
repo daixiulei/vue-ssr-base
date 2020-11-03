@@ -5,8 +5,8 @@ const WebpackDevMiddleware = require("webpack-dev-middleware")
 const webpack = require("webpack")
 const Mfs = require("memory-fs")
 const path = require("path")
-const { CleanWebpackPlugin } = require("clean-webpack-plugin")
 const chalk = require("chalk")
+const logger = require("../src/utils/logger")
 
 const readFile = (fsModule, path) => {
     try {
@@ -22,7 +22,6 @@ module.exports = function setupDevServer(app, cb) {
     // 当serverbundle或者clientManifest发生改变时，调用update
     function update() {
         if (serverBundle && clientManifest) {
-            console.log("will update")
             cb(serverBundle, clientManifest)
         }
     }
@@ -51,7 +50,7 @@ module.exports = function setupDevServer(app, cb) {
             return
         }
 
-        console.log(chalk.blue("client manifest build complete \n"))
+        logger.info(chalk.blue("client manifest build complete"))
         try {
             clientManifest = JSON.parse(devServerMiddleware.fileSystem.readFileSync(path.join(clientConfig.output.path, "vue-ssr-client-manifest.json")))
             update()
@@ -68,7 +67,7 @@ module.exports = function setupDevServer(app, cb) {
         stats = stats.toJson()
         if (stats.errors.length > 0) return
 
-        console.log(chalk.blue("server bundle build complete"))
+        logger.info(chalk.blue("server bundle build complete"))
         try {
             serverBundle = JSON.parse(mfs.readFileSync(path.join(serverConfig.output.path, "vue-ssr-server-bundle.json")))
             update()
